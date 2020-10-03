@@ -1,0 +1,15 @@
+.CheckOut {
+    display: flex;
+    padding: 20px;
+    background: #fff;
+}
+.checkOut-title {
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray
+}
+.checkOut-ad {
+    width: 100%;
+    margin-bottom: 10px;
+    
+}
